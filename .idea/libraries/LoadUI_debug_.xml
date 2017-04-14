@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="LoadUI-debug-">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.android/build-cache/e91038e4cbb19b3ecf2843cd60552102cc75e16a/output/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.android/build-cache/e91038e4cbb19b3ecf2843cd60552102cc75e16a/output/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
